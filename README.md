@@ -1,14 +1,16 @@
-# pandas
-Install pandas-numpy in virtual environment
+# Pandas
+## Install pandas-numpy in virtual environment
 
-# Create virtual envirment using python3  
+Create virtual envirment using python3  
 mkvirtualenv -p /usr/bin/python3.4 <namevirtualenvironment>
 
-# Then go to virtual environment by workon command
+Then go to virtual environment by workon command
 workon pandas
 
-# Upgrade pip to new version
+Upgrade pip to new version
 pip install -U pip
+
+Install numpy and pandas
 
 pip install numpy
 pip install scipy
